@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Ayyun Ramzan Mufti<br>Senior Full-Stack Mobile & Web Engineer specializing in React Native, Next.js, and scalable cross-platform architecture.<br><br>### About Me<br><br>* **🔭 I’m currently working on:** Building high-performance cross-platform apps with React Native, Next.js (App Router), and EAS pipelines<br>* **👯 I’m looking to collaborate on:** Open-source React Native packages, performance optimization projects, and scalable mobile architecture<br>* **🌱 I’m currently learning:** Next.js (App Router), Prisma ORM, Supabase, and advanced PostgreSQL database management<br>* **💬 Ask me about:** React Native performance, Redux Toolkit/RTK Query, Stream Chat SDK, CI/CD with EAS & GitHub Actions, and app store deployment<br>* **⚡ Fun fact:** I've built apps with 100K+ downloads on Google Play and reduced app crash rates by ~40% using Sentry & Crashlytics profiling!
 
+# 📦 Open Source Packages:
+* **[@ayyun/react-native-image-zoom-video-viewer](https://www.npmjs.com/package/@ayyun/react-native-image-zoom-video-viewer)** – A custom React Native utility package for seamless image zooming and video viewing in cross-platform apps.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayyun-mufti-205878119/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayyunmufti@gmail.com) 
